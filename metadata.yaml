@@ -1,0 +1,29 @@
+_repo: Christmas-Roses_25634
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25634-h/images/bcover.jpg
+creator:
+  authors:
+  - agent_name: Lawson, Lizzie
+    gutenberg_agent_id: '31474'
+    url: http://www.gutenberg.org/2009/agents/31474
+  - agent_name: Mack, Robert Ellice
+    gutenberg_agent_id: '31475'
+    url: http://www.gutenberg.org/2009/agents/31475
+description: ''
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+title: Christmas Roses
+url: http://www.gutenberg.org/ebooks/25634
